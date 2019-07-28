@@ -2,11 +2,11 @@
 
 ## NGINX
 
-HTTP/web server and reverse proxy
+NGINX is open source software for web serving, reverse proxying, caching, load balancing, media streaming, and more. It started out as a web server designed for maximum performance and stability. In addition to its HTTP server capabilities, NGINX can also function as a proxy server for email (IMAP, POP3, and SMTP) and a reverse proxy and load balancer for HTTP, TCP, and UDP servers.
 
 ## `ps` command
 
-Used to provide information about the currently running processes, including their process identification numbers` (PIDs).
+The ps (i.e., process status) command is used to provide information about the currently running processes, including their process identification numbers (PIDs). A process, also referred to as a task, is an executing (i.e., running) instance of a program. Every process is assigned a unique PID by the system.
 
 ## DPKG
 

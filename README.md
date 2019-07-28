@@ -1,6 +1,6 @@
 # Knowledge
 
-Knowledge summaries of programming languages, paradigms, patterns, methodologies, technologies, etc. Currently it's more brief drafts than something profound and well written.
+Concept summaries of programming languages, paradigms, patterns, methodologies, technologies, etc. Currently it's more brief drafts than something profound and well written.
 
 Current:
 - Microservices (Docker & Kubernetes)
